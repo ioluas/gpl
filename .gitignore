@@ -1,0 +1,4 @@
+.idea
+gpl
+data/*
+!data/dedup/text.txt
